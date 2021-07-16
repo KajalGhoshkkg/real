@@ -1,0 +1,1 @@
+http://localhost:8000/publish/propertyView?location=kok&BHK=1 bhk&property_type=flat&price[lt]=400&price[gt]=200
